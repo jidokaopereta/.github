@@ -1,4 +1,3 @@
-
 | **Yếu Tố PESTLE** | **Cơ Hội / Điểm Mạnh** | **Thách Thức / Rủi Ro** |
 |-------------------|-------------------------|-------------------------|
 | **Political (Chính trị)** | - Hỗ trợ từ các chương trình đổi mới sáng tạo của chính phủ.<br>- Tiềm năng hợp tác với các đối tác địa phương ở nhiều quốc gia. | - Phải tuân thủ các quy định kiểm duyệt và truyền thông của từng quốc gia.<br>- Tác động của ổn định chính trị và quan hệ quốc tế đến hoạt động kinh doanh. |
@@ -7,4 +6,3 @@
 | **Technological (Công nghệ)** | - Ứng dụng AI và tự động hóa (ChatGPT API, Google Images API) giúp tăng hiệu quả sản xuất nội dung.<br>- Đầu tư vào R&D mang lại lợi thế cạnh tranh và cải tiến liên tục. | - Áp lực liên tục cập nhật và đổi mới công nghệ để theo kịp xu hướng thị trường.<br>- Quản lý bảo mật dữ liệu và an ninh mạng là vấn đề quan trọng. |
 | **Legal (Pháp lý)** | - Cơ hội xây dựng uy tín thông qua việc tuân thủ các quy định pháp lý quốc tế.<br>- Phát triển chính sách nội dung minh bạch, trung thực trong quảng cáo. | - Rủi ro liên quan đến vi phạm bản quyền và quyền sở hữu trí tuệ.<br>- Tuân thủ các quy định bảo vệ dữ liệu (như GDPR) và luật quảng cáo khắt khe. |
 | **Environmental (Môi trường)** | - Cơ hội thúc đẩy hình ảnh doanh nghiệp bền vững thông qua các chính sách xanh.<br>- Tích hợp giải pháp sử dụng năng lượng tái tạo trong vận hành data center. | - Tiêu thụ năng lượng lớn từ hoạt động máy chủ và data center.<br>- Yêu cầu giảm thiểu tác động môi trường trong bối cảnh quy định về ESG ngày càng nghiêm ngặt. |
-
