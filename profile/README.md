@@ -5,7 +5,7 @@ flowchart TD
     C[<a href='http://'>🗺️ Stakeholder Mapping Canvas</a>]
     D[<a href='http://'>📊 SWOT - PEST</a>]
     E[<a href='http://'>💡 Problem - Solution Canvas</a>]
-    B[<a href='https://github.com/jidokaopereta/Business-Market-Customer$0'>📈 Market - Customer</a>]
+    B[<a href='https://github.com/jidokaopereta/Business-Market-Customer/'>📈 Market - Customer</a>]
     G[<a href='http://'>📝 One Page Strategic Plan</a>]
     H[<a href='http://'>🔄 Iteration - Continuous Improvement</a>]
 
