@@ -9,10 +9,10 @@ flowchart TD
     G[<a href='https://github.com/jidokaopereta/Business-One-Page-Strategic-Plan/'>📝 One Page Strategic Plan</a>]
     H[<a href='http://'>🔄 Iteration - Continuous Improvement</a>]
 
-    A --> B
+    A --> E
     B --> C
     C --> D
-    D --> E
-    E --> F
-    F --> G
+    C --> F
+    D --> G
+    E --> B
     G --> H
