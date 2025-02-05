@@ -6,7 +6,7 @@ flowchart TD
     D[<a href='http://'>📊 SWOT - PEST</a>]
     E[<a href='http://'>💡 Problem - Solution Canvas</a>]
     B[<a href='https://github.com/jidokaopereta/Business-Market-Customer/'>📈 Market - Customer</a>]
-    G[<a href='http://'>📝 One Page Strategic Plan</a>]
+    G[<a href='https://github.com/jidokaopereta/Business-One-Page-Strategic-Plan/'>📝 One Page Strategic Plan</a>]
     H[<a href='http://'>🔄 Iteration - Continuous Improvement</a>]
 
     A --> B
